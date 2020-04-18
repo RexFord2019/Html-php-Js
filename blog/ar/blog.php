@@ -124,7 +124,7 @@
                             <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a  href="captcha/captcha/index.php" target="_blank">Sugerir Matéria</a>
+                                        <a  href="https://api.whatsapp.com/send?phone=5561986044709&text=Ol%C3%A1%20Douglas%20P.%20Lacerda%2C%20Estou%20Visitando%20o%20seu%20site%20e%20gostaria%20de%20agendar%20um%20hor%C3%A1rio%20com%20voc%C3%AA%3B" target="_blank">Sugerir Matéria</a>
                                     </div>
                                 </div>
                             </div>

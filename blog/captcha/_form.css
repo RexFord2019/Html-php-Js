@@ -1,0 +1,83 @@
+/* 
+    Created on : 20/06/2018, 18:28:36
+    Author     : Ebrahim | Web Creative www.webcreative.com.br
+*/
+body{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background: #2d3755; /* defino cor do fundo do documento */
+    color: #fff;
+}
+.wrapper{
+    max-width: 90%;
+    width: 1140px;
+    margin: 0 auto;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    position: relative;
+    flex-wrap: wrap;
+}
+.form_erro{
+    width: 60%;
+    background: #f48720;
+    display: none;
+}
+.form_erro p{
+    padding: 0 10px;
+}
+.form-contact{
+    width: 60%;
+    position: relative;
+    border-radius: 3px;
+}
+.form-contact label{
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+    position: relative;
+}
+.form-contact input,
+.form-contact textarea{
+    position: relative;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 96%;
+    outline: 0;
+    font-size: 16px;
+    display: block;
+}
+.form-contact label legend{
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-bottom: 5px;
+    opacity: 0.6;
+    letter-spacing: 1px;
+}
+.form-contact .g-recaptcha{
+    margin-bottom: 20px;
+}
+.form-contact button{
+    padding: 15px;
+    width: 100%;
+    background: #dc872f;
+    border: 0;
+    color: #fff;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: block;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.form-contact button:hover{
+    background: #f48720;
+}
+/*BASE::LOAD*/
+.wc_load{position: fixed; display: none;  left: 0;  top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); text-align: center; color: #fff; z-index: 9999;}
+.wc_load_content{display: inline-block;  margin: auto;}
+.wc_load_content_msg{ font-size: 0.8em; font-weight: 500; text-transform: uppercase; text-shadow: 1px 1px #000; margin-top: 15px;}
