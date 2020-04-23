@@ -22,7 +22,7 @@
         text-decoration: none;
     }
 </style>
-
+<div id="home"></div>
 <body class="w3-light-grey" style="margin-top:45px">
     <!-- Navbar (sit on top) -->
     <div class="w3-top">
@@ -31,7 +31,7 @@
                 Douglas Pereira Lacerda
                 <!-- Float links to the right. Hide them on small screens -->
                 <div class="w3-right w3-hide-small">
-                    <a href="../index.html" class="w3-bar-item w3-button">Home</a>
+                    <a href="#home" class="w3-bar-item w3-button">Home</a>
                     <a href="#experiencias" class="w3-bar-item w3-button">Experiências</a>
                     <a href="#education" class="w3-bar-item w3-button">Educação</a>
                     <a href="#objetivo" class="w3-bar-item w3-button">Objetivo</a>
@@ -57,14 +57,7 @@
     <img class="w3-image" src="https://cdn.pixabay.com/photo/2018/05/02/09/11/skills-3368049__340.jpg" alt="Architecture"
         style="height: 500px; width: 1500px; margin-top: 5px;">
     <param name="allowFullScreen" value="true">
-    <script>
-        function redirecionar() {
-            if (confirm("Um eucalipto rende de 20 a 24 mil folhas de papel A4 (75 g/m2 de gramatura)! O Arquivo eletrônico
-            é mais saúdavel. Más se você Realmente deseja imprimir Basta Clicar em Ok . ;) ")) {
-                window.open('pdf/Douglas_lacerda_curriculo.php', '_blank');
-            }
-        }
-    </script>
+   
 
 
     <div id="experiencias"></div><br><br>
@@ -77,14 +70,24 @@
                 <div class="w3-white w3-text-grey w3-card-4">
                     <div class="w3-display-container">
                         <img src="https://cdn.pixabay.com/photo/2015/03/26/09/41/tie-690084__340.jpg" style="width:100%"
-                            alt="Avatar" title="Baixar Curriculo" style="border-radius: 8px;"></a>
+                            alt="Avatar" title="Avatar" style="border-radius: 8px;"></a>
                         <div class="w3-display-bottomleft w3-container w3-text-black">
-                            <h2 style="background:rgba(0, 0, 0, 0.7);; height:40px; color: white; font:verdana">Douglas
-                                Pereira Lacerda</h2>
+                            <h2 style="background:rgba(0, 0, 0, 0.4); height:40px; color: white; font:verdana">Douglas 
+                                P. Lacerda</h2>
                         </div>
                     </div>
                     <div class="w3-container">
-
+                        <br>
+                        <!-- Impressão de currículo em pdf -->
+                                <script>
+                                    function redirecionar() {
+                                     if (confirm("Um eucalipto rende de 20 a 24 mil folhas de papel A4 (75 g/m2 de gramatura)! O Arquivo eletrônico é mais saúdavel. Más se você Realmente deseja imprimir Basta Clicar em Ok . ;) ")) {
+                                            window.open('pdf/douglas_lacerda_curriculo.php', '_blank');
+                                        }
+                                 }
+                                </script>
+                        <button onclick="redirecionar();" style="width:100%" alt="Avatar" title="DOWLOAD EM PDF"
+                            style="border-radius: 8px;"><marquee>DOWLOAD DESSE ARQUIVO EM PDF "CLICANDO AQUI MESMO", DEPOIS ESCOLHA O LOCAL EM QUE DESEJA SALVAR E OK, ESTOU AGUARDANDO A ENTREVISTA.</marquee></button>
                         <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Sócio e membro
                             fundador da Empresa Myzzy Tecnologia.</p>
                         <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Administrador e Diretor Organizacional da empresa Myzzy Tecnologia.</p>
@@ -134,6 +137,10 @@
                         <div class="w3-light-grey w3-round-xlarge w3-small">
                             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
                         </div>
+                        <p>GitHub</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+                        </div>
                                    
                         <p>html -5</p>
                         <div class="w3-light-grey w3-round-xlarge w3-small">
@@ -180,8 +187,6 @@
             <div class="w3-twothird">
                 <div class="w3-container w3-card w3-white w3-margin-bottom">
                     <div class="content">
-                        <button onclick="redirecionar();" style="width:100%" alt="Avatar" title="Dowload de Curriculo"
-                            style="border-radius: 8px;">IMPRIMIR CURRICULO EM PDF</button>
                     </div>
                     <h2 class="w3-text-grey w3-padding-16"><i
                             class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>EXPERIÊNCIAS DE TRABALHO</h2>
@@ -189,13 +194,15 @@
                         <h5 class="w3-opacity"><b>DIRETOR ADMINISTRATIVO E ORGANIZACIONAL / MYZZY TECNOLOGIA.</b></h5>
                         <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Setembro 2019 -
                             <span class="w3-tag w3-teal w3-round">Atual</span></h6>
-                        <p>Trabalhando a parte administrativa e organizacional da Companhia, visando o bem-estar de todos os membros presentes, Gerenciando os controles que dizem respeito à função administrativa, Buscando competitividade no mercado, visualizando o crescimento financeiro da empresa e atraindo novos investidores e clientes.</p>
+                        <p>Trabalhando e gerenciando o setor administrativo da empresa, zelando pelo bem-estar de todos os membros presentes,
+                        organizando as rotinas da administração, buscando competitividade de mercado, visualizando 
+                        o crescimento financeiro da empresa e atraindo novos investidores e clientes.</p>
                         <hr>
                     </div>
                     <div class="w3-container">
                         <h5 class="w3-opacity"><b>EMPREENDEDOR DIGITAL</b></h5>
                         <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 10/01/2019 -
-                            <span class="w3-tag w3-teal w3-round">Current</span></h6>
+                            <span class="w3-tag w3-teal w3-round">Atual</span></h6>
                         <P>Vendas de e-books, livros, cursos, videoaulas, ministrando cursos e palestras on-line.</P>
                         <hr>
                     </div>
@@ -210,7 +217,7 @@
                     <div class="w3-container">
                         <h5 class="w3-opacity"><b>PORTEIRO / G.M.A. ADMINISTRACAO E SERVICOS LTDA.</b></h5>
                         <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 14/05/2018 -
-                            <span class="w3-tag w3-teal w3-round">Current</span></h6>
+                            <span class="w3-tag w3-teal w3-round">Atual</span></h6>
                         <p>O Porteiro é o funcionário que deve controlar a entrada de pessoas, mercadorias e correspondências no edifício, ou seja, ele se limita a observar e monitorar a entrada, e zelar pelo bem estar do patrimônio.</p>
                         <hr>
                     </div>
@@ -218,7 +225,7 @@
                         <h5 class="w3-opacity"><b>SÓCIO/ DIRETOR ORGANIZACIONAL / CIN CENTRO DE COMPRAS DE EQUIPAMENTOS MEDICO-HOSPITALAR LTDA.</b></h5>
                         <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>March 01/03/2016 -
                             April 28/11/2017</h6>
-                        <p>Organize o ambiente de trabalho, lidar com os problemas do dia-a-dia, atender as demandas exigidas, preparar planilhas e gerar relatórios, Checar contas a Pagar e á receber, realizar aos pagamentos, e organizar os arquivos físicos e digitais de todos os documentos pertinentes á empresa, dar assistência técnica, fazer atividade de  recepcionista, limpeza e atendimento telefônico. Gerenciar as agendas de exames e suas confirmações de data e hora e o endereço do lacal onde está agendado, gerenciar o departamento de compras, listando os materiais ausentes e até mesmo prevendo prazos, trabalhar com baixo capital e manter a produtividade no serviço de todas as tarefas.</p>
+                        <p>Organizar o ambiente de trabalho, lidar com os problemas do dia-a-dia, atender as demandas exigidas, preparar planilhas e gerar relatórios, Checar contas a Pagar e á receber, realizar aos pagamentos, e organizar os arquivos físicos e digitais de todos os documentos pertinentes á empresa, dar assistência técnica, fazer atividade de  recepcionista, limpeza e atendimento telefônico. Gerenciar as agendas de exames e suas confirmações de data e hora e o endereço do lacal onde está agendado, gerenciar o departamento de compras, listando os materiais ausentes e até mesmo prevendo prazos, trabalhar com baixo capital e manter a produtividade no serviço de todas as tarefas.</p>
                         <br>
                     </div>
                     <div class="w3-container">
@@ -256,7 +263,7 @@
                                 MEDICOS LTDA.</b></h5>
                         <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>March 11/03/2010 -
                             January 20/01/2012</h6>
-                        <p>Realização de eletroencefalogramas, potenciais evocados gerais (todos os exames de potenciais evocados), assistência aos  médicos em exames de eletroneurografia, realização de eletroneurografia, auxílio no controle de exames, gerenciamento dos exames realizados e organização das datas de entrega dos relatórios aos seus proprietários, atender as ligações telefônicas, auxiliando na grande demanda de consultas e exames, trabalhando nas análises dos exames de polissonografia já realizados, auxiliando nas consultas médicas.</p>
+                        <p>Exercer atividades técnicas, eletroencefalograma, potenciais evocados gerais (todos os exames de potenciais evocados), assistência aos  médicos em exames de eletroneurografia, realização de eletroneurografia, auxílio no controle de exames, gerenciamento dos exames realizados e organização das datas de entrega dos relatórios aos seus proprietários, atender as ligações telefônicas, auxiliando na grande demanda de consultas e exames, trabalhando nas análises dos exames de polissonografia já realizados, auxiliando nas consultas médicas.</p>
                         <br>
                     </div>
                     <div class="w3-container">
@@ -277,7 +284,7 @@
                         <br>
                     </div>
                 </div>
-                <div id="education"></div>
+                
                 <br>
                 <br>
                 <div class="w3-container w3-card w3-white">
@@ -312,6 +319,8 @@
                         <hr>    
                         
                     </div>
+                    <div id="education"></div>
+                    <br><br><br>
                     <div class="w3-container">
                         <h1>FORMAÇÃO INTERMEDIARIA</h1>
                         <h5 class="w3-opacity"><b>Escola Estadual Darci Ribeiro</b></h5>

@@ -9,53 +9,59 @@ $style='';
 
 
 $dompdf->loadHtml('
-
-            <h1 style="text-align: center;">Douglas Pereira Lacerda</h1>
-            <p style="text-align: center;">SHPS, Setor Habitacional – Por do Sol, Quadra108 conjunto K Casa 01 / Distrito Federal- DF
-            <p style="text-align: center;">Cep: 72,238-100<h2><p style="text-align: center;"> +55 (61) 9 8604 - 4709<p style="text-align: center;"> douglaslacerda2023@gmail.com / Data de nascimento: 11/Junho/1991</p></p>
-            
-            
-             <h3>OBJETIVO</h3>
+        
+           
+            <h1 style="text-align: center;" font size="4" face="arial">Douglas Pereira Lacerda</h1>
+            <p style="text-align: center;" font size="4" face="arial">SHPS, Setor Habitacional – Por do Sol, Quadra108 conjunto K Casa 01 / Distrito Federal- DF
+            <p style="text-align: center;" font size="4" face="arial">Cep: 72,238-100<h2><p style="text-align: center;"> +55 (61) 9 8604 - 4709<p style="text-align: center;"> douglaslacerda2023@gmail.com / Data de nascimento: 11/Junho/1991</p>
+            <p style="text-align: center;" font size="4" face="arial">https://douglaspereiralacerda.com.br/curriculo/curriculo.html</p>
+            <br><br><br>
+            <font size="4" face="arial">
+            <h3>OBJETIVO</h3>
                <hr>
                <p>Trabalhar e terminar á faculdade de Engenharia de Computação.</p>     
             
             
             <br>
-            <h3>QUALIFICAÇÕES PROFISSIONAIS 1 e 2.</h3>
+            <h3>QUALIFICAÇÕES PROFISSIONAIS</h3>
             <hr>
-            <p>1- Soluções de Problemas, Gestão de Equipe, Recrutamento, Administração de Empresas, Gestão de Pessoas, Registros de Marcas e Patentes, Suporte Técnico, Desenvolvimento de sistemas Web com Linguagens e técnicas Básicas, auxíliar de excritório, Redação e análize de contratos e outros Documentos, Liderar e Trabalhar com Marketing e Vendas em equipe, Desenvolvimento e criação de Startup e Mei, Consultoria e soluções em Tecnologia da Informação</p>
-
-            <p>2- Técnico em Polissonografia, Técnico em análises de exames de Polissonografia, muito estudo e muito trabalho aperfeiçoando a prática e as técnicas em laboratório, Habilidade em identificar aos eventos ocorridos no exame em procedimento, Titulação de Cpap/ Bipap, Split Night- Noite Partida, Atendimento profissional ao paciente, qualidade na realização de cada exame devido ao conhecimento técnico de eventos de artefatos, e possivelmente Solucionando-os, Facilidade para trabalhar em plantões Noturnos. Resultando em Qualidade Técnica e gestão, melhores exames, qualidade nos laudos mais pacientes e melhor faturamento.</p>
+            <p>Atividades e Rotinas de Escritório, atividades comerciais, atendimento ao público atráves de callcenter ou recepção, atendimento ao telefone,
+               cobranças, manuseio de sistemas internos, envio e recebimento de e-mails, postura profissional, busca, perseverança, facil aprendizado, ótimo relacionamento,
+               diferencial em trabalho de equipe, liderança e ser liderado.
 
             <h3>IDIOMAS</h3>
                 <hr>
-                <p>Língua Portuguesa.
-                <p>Língua Inglesa Americana Intermediário.
-                <p>Língua Espanhola Intermediário</p>
+                <p>Língua -Portuguesa.
+                <p>Língua -Inglesa -Americana -Intermediário.
+                <p>Língua -Espanhola -Intermediário</p>
 
-                <h3>INFORMATICA</h3>
+                <h3>INFORMÁTICA</h3>
                 <hr>
-                <p>Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Access.
-                <p>Informática básica e Avançada.
-                <p>PHP-7 Básico.
-                <p>MySQL 4.1 (database software) Básico.
-                <p>Html-5.
-                <p>Css-3.
+                <p>Pacote Office 2007 á 2019 (Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Access).
+                <p>Informática - Nível Básico e Avançado.
+                <p>GitHub - Nível Intermediário.
+                <p>PHP-7 - Nível Básico.
+                <p>MySQL 4.1 (database software) - Nível Básico.
+                <p>Html-5 - Nível Intermediário.
+                <p>Css-3 - Nível Intermediário.
+                
 
 
-            <h3>EXPERIENCIAS PROFISSIONAIS</h3>
+            <h3>EXPERIÊNCIAS PROFISSIONAIS</h3>
                 <hr>
                 <p>DIRETOR ADMINISTRATIVO E ORGANIZACIONAL / MYZZY TECNOLOGIA.
                 <p>Setembro 2019 - Atual</p>
-                <p>Trabalhando a parte administrativa e organizacional da Companhia, visando o bem-estar de todos os membros presentes, Gerenciando os controles que dizem respeito à função administrativa, Buscando competitividade no mercado, visualizando o crescimento financeiro da empresa e atraindo novos investidores e clientes.</p>
+                <p>Trabalhando e gerenciando o setor administrativo da empresa, zelando pelo bem-estar de todos os membros presentes,
+                        organizando as rotinas da administração, brabalhando e gerenciando o setor administrativo da empresa,uscando competitividade de mercado, visualizando 
+                        o crescimento financeiro da empresa e atraindo novos investidores e clientes.</p>
 
             <p>EMPREENDEDOR DIGITAL
                 <p>01/10/2019 - Atual
                 <p>Vendas de e-books, livros, cursos, videoaulas, ministrando cursos e palestras on-line.
                 
             <p>TÉCNICO EM ANÁLISE DE EXAMES DE POLISONOGRAFIA / CLINICA DE POLISONOGRAFIA MULTMED SONO
-                15 de maio de 2019 - Atual
-                Realizar o acesso remoto, acessar aos exames realizados, identificar e marcar á todos os eventos ocorridos durante a coleta dos dados no plantão, gerar o relatório em arquivo Word (editável) ​​para o médico escrever o diagnóstico final.</p>
+                <p>15 de maio de 2019 - Atual
+                <p>Realizar o acesso remoto, acessar aos exames realizados, identificar e marcar á todos os eventos ocorridos durante a coleta dos dados no plantão, gerar o relatório em arquivo Word (editável) ​​para o médico escrever o diagnóstico final.</p>
 
             <p>PORTEIRO / GMA ADMINISTRACAO E SERVICOS LTDA.
                 <p>14 de maio de 2018 - Atual
@@ -63,7 +69,7 @@ $dompdf->loadHtml('
 
             <p>SÓCIO / DIRETOR ORGANIZACIONAL / CENTRO DE COMPRAS DE EQUIPAMENTOS MEDICO-HOSPITALAR LTDA.
                 <p>01/03/2016 - 28/11/2017
-                <p>Organize o ambiente de trabalho, lidar com os problemas do dia-a-dia, atender as demandas exigidas, preparar planilhas e gerar relatórios, Checar contas a Pagar e á receber, realizar aos pagamentos, e organizar os arquivos físicos e digitais de todos os documentos pertinentes á empresa, dar assistência técnica, fazer atividade de  recepcionista, limpeza e atendimento telefônico. Gerenciar as agendas de exames e suas confirmações de data e hora e o endereço do lacal onde está agendado, gerenciar o departamento de compras, listando os materiais ausentes e até mesmo prevendo prazos, trabalhar com baixo capital e manter a produtividade no serviço de todas as tarefas.</p>
+                <p>Organizar o ambiente de trabalho, lidar com os problemas do dia-a-dia, atender as demandas exigidas, preparar planilhas e gerar relatórios, Checar contas a Pagar e á receber, realizar aos pagamentos, e organizar os arquivos físicos e digitais de todos os documentos pertinentes á empresa, dar assistência técnica, fazer atividade de  recepcionista, limpeza e atendimento telefônico. Gerenciar as agendas de exames e suas confirmações de data e hora e o endereço do lacal onde está agendado, gerenciar o departamento de compras, listando os materiais ausentes e até mesmo prevendo prazos, trabalhar com baixo capital e manter a produtividade no serviço de todas as tarefas.</p>
 
 
             <p>SUPERVISOR / TÉCNICO EM POLISSONOGRAFIA / TÉCNICO ANALISTA / CENTRO DE COMPRAS DE EQUIPAMENTOS MEDICO-HOSPITALAR LTDA.
@@ -73,7 +79,7 @@ $dompdf->loadHtml('
 
             <p>TÉCNICO EM POLISSONOGRAFIA / BIOCARDIOS INSTITUTO DE CARDIOLOGIA LTDA.
                 <p>01/06/2013 - 25/07/2015
-                Receber aos pacientes que permanecerão na clínica a noite toda, fazer su registro se necessário, verifique o sistema de agendamento da clínica, prepare os dispositivos para realizar exames polissonográficos de noite inteira, atenda e prepare cada paciente para o exame noturno, observe as solicitações médicas que determinam o tipo de exames, como exames de titulação Cpap, Bipap ou CO2, faça o acompanhamento durante a noite e atenda às necessidades de cada indivíduo hospitalizado exclusivamente para realizar o exame de Polissonografia, listar os equipamentos defeituosos, escrever quais os defeitos apresentados, entrar em contato com o suporte técnico noturno, caso nao resolvido durante o plantão, ajudar o gerente a resolver no dia seguinte possivelmente, ou entrar em contato diretamente com a equipe de TI da empresa.</p>
+                <p>Receber aos pacientes que permanecerão na clínica a noite toda, fazer su registro se necessário, verifique o sistema de agendamento da clínica, prepare os dispositivos para realizar exames polissonográficos de noite inteira, atenda e prepare cada paciente para o exame noturno, observe as solicitações médicas que determinam o tipo de exames, como exames de titulação Cpap, Bipap ou CO2, faça o acompanhamento durante a noite e atenda às necessidades de cada indivíduo hospitalizado exclusivamente para realizar o exame de Polissonografia, listar os equipamentos defeituosos, escrever quais os defeitos apresentados, entrar em contato com o suporte técnico noturno, caso nao resolvido durante o plantão, ajudar o gerente a resolver no dia seguinte possivelmente, ou entrar em contato diretamente com a equipe de TI da empresa.</p>
 
 
             <p>TTÉCNICO EM POLISSONOGRAFIA/ FUNDO DE APOIO AO DESENVOLVIMENTO CIENTIFICO E TECNOLÓGICO DO HOSPITAL DA UNIVERSIDADE DE BRASILIA-FAHUB.
@@ -84,7 +90,7 @@ $dompdf->loadHtml('
 
             <p>TÉCNICO EM ELETROENCEFALOGRAMA JUNIOR / PRONTONEURO- SINAPSE SERVICOS MEDICOS LTDA.
                 <p>11/03/03 - 20/01/2012
-                <p>Realização de eletroencefalogramas, potenciais evocados gerais (todos os exames de potenciais evocados), assistência aos  médicos em exames de eletroneurografia, realização de eletroneurografia, auxílio no controle de exames, gerenciamento dos exames realizados e organização das datas de entrega dos relatórios aos seus proprietários, atender as ligações telefônicas, auxiliando na grande demanda de consultas e exames, trabalhando nas análises dos exames de polissonografia já realizados, auxiliando nas consultas médicas.</p>
+                <p>Exercer atividades técnicas, eletroencefalograma, potenciais evocados gerais (todos os exames de potenciais evocados), assistência aos  médicos em exames de eletroneurografia, realização de eletroneurografia, auxílio no controle de exames, gerenciamento dos exames realizados e organização das datas de entrega dos relatórios aos seus proprietários, atender as ligações telefônicas, auxiliando na grande demanda de consultas e exames, trabalhando nas análises dos exames de polissonografia já realizados, auxiliando nas consultas médicas.</p>
 
 
             <p>ATENDENTE DE TELEFONE / CLINICA GERAL E ORTOPEDICA SUDOESTE EIRELI.
@@ -124,7 +130,7 @@ $dompdf->loadHtml('
                     <p>Semana de Gestão- Uni. Cesumar<b> De 10/06/2013 a 12/06/2013.</b>
                     <p>Semana de Conhecimentos Gerais- Uni. Cesumar<b> De 18/10/2013 a 22/10/2013.</b>
             
-
+            <br><br>
             <h3>REALIZAÇÕES PESSOAIS</h3>
                <hr>
                <p>Membro e fundador da Empresa e sua "Marca" Myzzy Tecnologia Em Setembro 2019 - Atual.
@@ -133,6 +139,7 @@ $dompdf->loadHtml('
                     <p>Ocupar ao cargo de Administrador e Diretor Organizacional da empresa Myzzy Tecnologia.
                     <p>Técnico em Análises de exames de Polissonografia, Trabalho 100% a Home-Office.
                     <p>Programador iniciante em "html-5, CSS-3, Php-7, MySQL 4.1 (database software)-{ Ainda sem ir á Faculdade}.
+                    
                     
     ');
 
